@@ -1,10 +1,4 @@
-# CSE 572 - Assignment 2
-
-## Authors
-* Semira Chung
-* Baani Khurana
-* Archana Narasimha Prasad
-* Rahul Reddy Sarikonda
+# Continuous Glucose Monitoring
 
 ## Built With
 * Matlab
@@ -31,7 +25,7 @@
 * Our features remain the same -- zero-crossing, RMS, coefficient variation, and FFT.
 
 ## Models Used
-* Linear SVM (Archana Narasimha Prasad)
-* Polynomial SVM (Baani Khurana)
-* Gaussian SVM (Semira Chung)
-* Naive Bayes (Rahul Reddy Sarikonda)
+* Linear SVM 
+* Polynomial SVM 
+* Gaussian SVM 
+* Naive Bayes 
